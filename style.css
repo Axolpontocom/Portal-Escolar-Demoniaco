@@ -345,7 +345,7 @@ input:required:valid, select:required:valid, textarea:required:valid {
   height: 225vh;
   justify-content: center;
   align-items: space-evenly;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMoMFdnjhc1sjrrgWpSKUrX0GNCUTzjOgsWatc-b4Iwx8W6WI9NaDRKn6&s=10);
+  background-image: url(img/fundoForm.jfif);
   background-size: cover;
   background-position: center;
 }
