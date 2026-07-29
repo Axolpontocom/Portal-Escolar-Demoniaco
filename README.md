@@ -4,13 +4,13 @@
 
 ## Funcionalidades
 
->os marcados com o x estão prontos
+>os marcados estão prontos
 
 1. [x] `index.html` Pagina inicial com imagens e caminhos para cada uma das outras paginas
 2. [x] `campus.html` Pagina demonstrando a aparencia do campus infernal
 3. [x] `ensino.html` Pagina demontrando os horrores cosmicos lecionadosna escola
 4. [x] `formulario.html` Pagina com um formulário de pact... Matricula
-5. [-] `Tabela.html` Pagina desmonstrando quem são nossos professores/ sacerdotes de horroes ancestrais
+* `Tabela.html` Pagina desmonstrando quem são nossos professores/ sacerdotes de horroes ancestrais
 
 
 ---
