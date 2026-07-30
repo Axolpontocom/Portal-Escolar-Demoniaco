@@ -37,7 +37,7 @@
 
 ### Metodo 3: *Visualização Online*
 
-* [Acesse o site por aqui](https://axolpontocom.github.io/sitizinho/)
+* [Acesse o site por aqui](https://axolpontocom.github.io/Portal-Escolar-Demoniaco/)
 
 ##  Licença
 
