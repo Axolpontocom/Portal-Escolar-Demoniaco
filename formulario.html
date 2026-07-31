@@ -7,12 +7,8 @@
 
   <body>
     <div id="principalf">
-      <div id="cabeçalho">
-        <img
-          src="img/LOGO.webp"
-          width="50px"
-          height="100%"
-        />
+      <div class="cabeçalhoroll">
+        <img src="img/LOGO.webp" width="50px" height="100%" />
         <a href="index.html">
           <h1
             style="
@@ -21,22 +17,19 @@
               font-size: 400%;
             "
           >
-             SUBAÉP
+            SUBAÉP
           </h1>
         </a>
-        <img
-          src="img/LOGO.webp"
-          width="50px"
-          height="100%"
-        />
+        <img src="img/LOGO.webp" width="50px" height="100%" />
       </div>
-      <div id="corpo">
-      
+      <div id="corpoD">
+        <div id="fundolateralF"></div>
+
         <div id="lateralf">
           <a href="index.html">
-          <div id="botao4">
-            <p class="C">Inicio</p>
-          </div>
+            <div id="botao4">
+              <p class="C">Inicio</p>
+            </div>
           </a>
           <a href="campus.html">
             <div id="botao1">
@@ -48,12 +41,13 @@
               <p class="C">Ensino</p>
             </div>
           </a>
-          <div id="botao3">
-            <p class="C">Docentes</p>
-          </div>
+          <a href="Docentes.html">
+            <div id="botao3">
+              <p class="C">Docentes</p>
+            </div>
+          </a>
         </div>
         <div id="centralF">
-          
           <div id="forms">
             <form>
               <label>Nome do Aluno</label><br />
@@ -93,7 +87,8 @@
               <label>Sexo do aluno</label><br />
               <input type="radio" name="sexo" required /><label>Masculino</label
               ><br />
-              <input type="radio" name="sexo" required /><label>Feminino</label><br />
+              <input type="radio" name="sexo" required /><label>Feminino</label
+              ><br />
               <input type="radio" name="sexo" required /><label>Outros</label>
               <input type="text" placeholder="Especifique" /><br /><br />
               <label>Atividades interdiciplinares </label><br />
@@ -124,9 +119,13 @@
               <br /><br />
               <h4>Contato</h4>
               <label>Telefone 1 </label><br />
-              <input type="tel" placeholder="(00) 0000-0000" required /><br /><br />
+              <input
+                type="tel"
+                placeholder="(00) 0000-0000"
+                required
+              /><br /><br />
               <label>Telefone 2 </label><br />
-              <input type="tel" placeholder="(00) 0000-0000"/><br /><br />
+              <input type="tel" placeholder="(00) 0000-0000" /><br /><br />
               <label>Email do Responsável</label>
               <input
                 type="email"
@@ -140,9 +139,7 @@
                 required
               /><br /><br />
 
-
               <h4>Documentação</h4>
-
 
               <label>Indentidade do Aluno</label><br />
               <input type="file" required /><br /><br />
@@ -151,17 +148,13 @@
               <label>Indentidade do Responsável</label><br />
               <input type="file" required /><br /><br />
 
-
               <button>Cadastrar</button>
               <button type="reset">Limpar</button>
             </form>
             <br />
           </div>
-          
         </div>
       </div>
-      
     </div>
-    
   </body>
 </html>
