@@ -13,7 +13,7 @@
 3. [x] `ensino.html` Pagina demontrando os horrores cosmicos lecionadosna escola
 4. [x] `formulario.html` Pagina com um formulário de pact... Matricula
 
-5. [x] Pagina desmonstrando quem são nossos professores/ sacerdotes de horroes ancestrais
+5. [x] `Docentes.html` Pagina desmonstrando quem são nossos professores/ sacerdotes de horroes ancestrais
 
 ---
 
